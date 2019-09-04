@@ -3,7 +3,7 @@
 
 int main()
 {
-    //VT = Valor da Transação, C = Comissão
+    //VT = Valor da TransaÃ§Ã£o, C = ComissÃ£o
 
     float VT, C;
 
