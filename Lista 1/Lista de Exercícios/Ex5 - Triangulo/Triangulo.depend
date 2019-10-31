@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567612322 source:c:\users\2760481921013\desktop\triangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
