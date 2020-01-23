@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1568222068 source:d:\faculdade\logica de programação\binário para decimal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
