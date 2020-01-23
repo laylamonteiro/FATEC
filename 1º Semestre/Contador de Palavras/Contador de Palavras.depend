@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574772444 source:e:\faculdade\algoritmos e lógica de programação\contador de palavras\main.c
+	<stdio.h>
+	<stdlib.h>
+

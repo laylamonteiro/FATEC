@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575341596 source:e:\faculdade\algoritmos e lógica de programação\lista 4\exercício 4 - anagramas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

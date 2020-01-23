@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575216450 source:c:\users\layla monteiro\desktop\desafio 3 - boa senha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

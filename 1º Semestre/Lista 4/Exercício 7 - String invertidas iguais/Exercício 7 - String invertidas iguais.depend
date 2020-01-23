@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575348720 source:e:\faculdade\algoritmos e lógica de programação\lista 4\exercício 7 - string invertidas iguais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

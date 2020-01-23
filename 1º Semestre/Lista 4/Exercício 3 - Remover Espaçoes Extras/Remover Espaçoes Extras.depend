@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575330715 source:c:\users\layla monteiro\desktop\remover espaçoes extras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1575330716 source:e:\faculdade\algoritmos e lógica de programação\lista 4\exercício 3 - remover espaçoes extras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

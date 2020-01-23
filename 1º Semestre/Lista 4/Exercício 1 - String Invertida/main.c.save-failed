@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+
+int main()
+{
+    int i;
+    char str[81];
+
+    printf("Digite uma string de até 80 caracteres: \n");
+    for (i = 0; i < 81; i++){
+        scanf("%c", &str[i]);
+    }
+
+    printf("%d", strlen(str));
+
+    for (i = 0; i < strlen(str); i++){
+        printf("%c", str[i]);
+    }
+
+    return 0;
+}

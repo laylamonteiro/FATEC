@@ -1,0 +1,38 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+
+int main()
+{
+    char palavra1[30], palavra2[30];
+    int i, j, len, anagrama = 1;
+
+    printf("--- ANAGRAMAS ---");
+    printf("\n\nDigite uma palavra: ");
+    gets(palavra1);
+
+    len = (strlen(palavra1));
+    palavra1[len] = '\0';
+
+    printf("\n\nDigite outra palavra: ");
+    gets(palavra2);
+
+    palavra2[len] = '\0';
+
+    if(strlen(palavra1) != strlen(palavra2)){
+        printf("\nNao sao anagramas");
+    }else{
+        for (i = 0; i < len; i++){
+            for (j = 0; j < len; j++){
+                if(palavra1[i] == palavra1[j])
+                    anagrama++;
+            }
+        }
+        if (anagrama != len)
+            printf("\nNao sao anagramas\n");
+            else
+                printf("\nSao anagramas\n");
+    }
+    return 0;
+}

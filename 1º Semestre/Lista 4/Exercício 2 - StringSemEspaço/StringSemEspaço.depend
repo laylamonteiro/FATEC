@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575327885 source:c:\users\layla monteiro\desktop\stringsemespaço\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1575328516 source:e:\faculdade\algoritmos e lógica de programação\lista 4\exercício 2 - stringsemespaço\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

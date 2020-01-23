@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575326510 source:e:\faculdade\algoritmos e lógica de programação\lista 4\exercício 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1575326832 source:e:\faculdade\algoritmos e lógica de programação\lista 4\exercício 1 - string invertida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
